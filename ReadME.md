@@ -1,6 +1,6 @@
 # TODO BASIC APP IN REACT
 
-## Para correr el proyecto, en tu terminal utilizar el siguiente comando, de ésta forma estarás descargando todas las dependencias necesarias:
+## Una vez clonado el proyecto en tu terminal utilizar el siguiente comando, de ésta forma estarás descargando todas las dependencias necesarias:
 ```
 yarn
 ```
